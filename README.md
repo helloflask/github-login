@@ -1,4 +1,4 @@
-# Github-Login
+# GitHub-Login
 Example application for login with GitHub by GitHub-Flask
 
 ## Online Demo
@@ -36,4 +36,4 @@ Then go to http://localhost:5000
 
 # For Readers of Hello, Flask!
 
-Õâ¸öÊ¾Àı³ÌĞòµÄ½éÉÜÎÄÕÂÎª[¡¶Ê¹ÓÃGitHub-FlaskÊµÏÖGitHubµÚÈı·½µÇÂ¼¡·](https://zhuanlan.zhihu.com/p/39026635)¡£
+è¿™ä¸ªç¤ºä¾‹ç¨‹åºçš„ä»‹ç»æ–‡ç« ä¸º[ã€Šä½¿ç”¨GitHub-Flaskå®ç°GitHubç¬¬ä¸‰æ–¹ç™»å½•ã€‹](https://zhuanlan.zhihu.com/p/39026635)ã€‚
